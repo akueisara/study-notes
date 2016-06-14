@@ -1,3 +1,4 @@
 #Study Nodes
-1. Software Quality Assurance and Testing
-2. DSP
+1. DSP
+2. Software Quality Assurance and Testing
+
